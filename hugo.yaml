@@ -156,6 +156,7 @@ params:
     items:
       - job: "Supervisor and Intermediate Teacher"
         company: "The Touchwood School, Kashipur"
+        companyUrl: "https://instagram.com/the_touchwood_school"
         date: "2022 - present"
         info:
           enable: false
