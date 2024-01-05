@@ -171,11 +171,18 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "Bachelor of Education (B.Ed)"
+        school:
+          name: "Kumaun University, Nainital"
+          url: ""
+        date: "2023 - current"
+        GPA: ""
+
       - title: "Post Graduation Master of Commerce"
         school:
           name: "Kumaun University, Nainital"
-          url: "https://gcesalem.edu.in"
-        date: "2021 - current"
+          url: ""
+        date: "2021 - 2023"
         GPA: ""
     
       - title: "School Education"
